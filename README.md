@@ -1,4 +1,4 @@
-# Hi there, I'm Riswaldy Pakpahan - aka [Riswaldy]👋
+# Hi there, I'm Riswaldy Pakpahan👋
 ## About me:
 - 🔭 I’m currently student as Informatics
 - 🌱 I’m currently learning Python and Javascript
