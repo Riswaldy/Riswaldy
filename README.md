@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Riswaldy Pakpahan - aka [Riswaldy]👋
+## About me:
+- 🔭 I’m currently student as Informatics
+- 🌱 I’m currently learning Python and Javascript
+- 👯 I’m looking to collaborate as Data Automation and Analyst
+- 🤔 I’m looking for suggest for Web Project Ideas
+- 💬 Ask me about anything
+- 📫 How to reach me: pakpahanriswaldy@gmail.com
 
-<!--
-**Riswaldy/Riswaldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Student at President University](https://president.ac.id/) | Student Majoring in Informatics| Batch 2022
+   - President University Faculty Association (BEM Faculty)
+     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[webdev]: https://github.com/Riswaldy
